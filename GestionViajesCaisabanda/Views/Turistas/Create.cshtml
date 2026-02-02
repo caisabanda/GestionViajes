@@ -1,0 +1,40 @@
+@model GestionViajesCaisabanda.Models.Turista
+
+@{
+    ViewData["Title"] = "Nuevo Turista";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+        <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+            <div class="card-header bg-primary py-3 text-center">
+                <h4 class="mb-0 text-white"><i class="bi bi-person-plus me-2"></i>Registrar Turista</h4>
+            </div>
+            <div class="card-body p-4">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger border-0 small"></div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="nombre" class="form-control bg-light border-0" placeholder="Nombre" />
+                        <label asp-for="nombre">Nombre</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="apellido" class="form-control bg-light border-0" placeholder="Apellido" />
+                        <label asp-for="apellido">Apellido</label>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="email" class="form-control bg-light border-0" placeholder="Email" />
+                        <label asp-for="email">Correo Electrónico</label>
+                    </div>
+                    <div class="form-floating mb-4">
+                        <input asp-for="telefono" class="form-control bg-light border-0" placeholder="Teléfono" />
+                        <label asp-for="telefono">Número de Teléfono</label>
+                    </div>
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary btn-lg rounded-pill shadow-sm">Guardar Registro</button>
+                        <a asp-action="Index" class="btn btn-link text-muted small text-decoration-none">Volver al listado</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

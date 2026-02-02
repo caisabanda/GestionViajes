@@ -1,0 +1,19 @@
+@model GestionViajesCaisabanda.Models.Turista
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+            <div class="card-header bg-danger py-3 text-center text-white">
+                <h4 class="mb-0"><i class="bi bi-trash3 me-2"></i>¿Eliminar Turista?</h4>
+            </div>
+            <div class="card-body p-4 text-center">
+                <p class="mb-4">Se borrarán los datos de <strong>@Model.nombre @Model.apellido</strong> de la base de datos.</p>
+                <form asp-action="Delete">
+                    <input type="hidden" asp-for="turista_id" />
+                    <button type="submit" class="btn btn-danger btn-lg w-100 rounded-pill mb-2">Confirmar Eliminación</button>
+                    <a asp-action="Index" class="btn btn-link text-muted text-decoration-none">No, volver atrás</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

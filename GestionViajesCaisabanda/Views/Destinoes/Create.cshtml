@@ -1,0 +1,64 @@
+@model GestionViajesCaisabanda.Models.Destino
+
+@{
+    ViewData["Title"] = "Nuevo Destino";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+        <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+            <div class="card-header bg-success py-3">
+                <h4 class="mb-0 text-white text-center">
+                    <i class="bi bi-plus-circle me-2"></i>Registrar Nuevo Destino
+                </h4>
+            </div>
+            <div class="card-body p-4 bg-white">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger border-0 rounded-3 small"></div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="nombre" class="form-control border-0 bg-light" placeholder="Nombre del destino" />
+                        <label asp-for="nombre">Nombre del Destino</label>
+                        <span asp-validation-for="nombre" class="text-danger small"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="pais" class="form-control border-0 bg-light" placeholder="País" />
+                        <label asp-for="pais">País</label>
+                        <span asp-validation-for="pais" class="text-danger small"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <textarea asp-for="descripcion" class="form-control border-0 bg-light" placeholder="Descripción" style="height: 100px"></textarea>
+                        <label asp-for="descripcion">Descripción</label>
+                        <span asp-validation-for="descripcion" class="text-danger small"></span>
+                    </div>
+
+                    <div class="input-group mb-4">
+                        <span class="input-group-text bg-success text-white border-0">$</span>
+                        <div class="form-floating flex-grow-1">
+                            <input asp-for="costo" class="form-control border-0 bg-light" placeholder="Costo" />
+                            <label asp-for="costo">Costo del Viaje</label>
+                        </div>
+                        <span asp-validation-for="costo" class="text-danger small w-100"></span>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-success btn-lg rounded-pill shadow-sm">
+                            <i class="bi bi-save me-2"></i>Guardar Destino
+                        </button>
+                        <a asp-action="Index" class="btn btn-link text-muted text-decoration-none small">
+                            <i class="bi bi-arrow-left"></i> Volver al listado
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\turistas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\turistas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\turistas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\turistas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\turistas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\turistas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\turistas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\turistas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\destinoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\destinoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\destinoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\destinoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\destinoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\destinoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\destinoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\destinoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\destinoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\destinoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\turistas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\turistas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\migrations\\20260202183451_primeramigracionviajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\migrations\\20260202183451_primeramigracionviajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\models\\viajescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\models\\viajescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\models\\turista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\models\\turista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|d:\\uniandes\\6to semestre\\app web\\tareas\\gestionviajescaisabanda\\gestionviajescaisabanda\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FD887A4-284A-4FB5-A7E0-CADAF27578DE}|GestionViajesCaisabanda\\GestionViajesCaisabanda.csproj|solutionrelative:gestionviajescaisabanda\\models\\destino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Turistas\\Delete.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Delete.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Turistas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:25:38.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Details.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Turistas\\Details.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Details.cshtml*",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Turistas\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:25:31.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Turistas\\Edit.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Edit.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Turistas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:25:23.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Turistas\\Create.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Create.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Turistas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:25:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Destinoes\\Edit.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Edit.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Destinoes\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:24:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Destinoes\\Details.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Details.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Destinoes\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:23:49.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Destinoes\\Delete.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Delete.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Destinoes\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswDAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:23:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Destinoes\\Create.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Create.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Destinoes\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:21:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Destinoes\\Index.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Destinoes\\Index.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Destinoes\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:19:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Turistas\\Index.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Turistas\\Index.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Turistas\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:18:17.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T19:08:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T18:59:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260202183451_PrimeraMigracionViajes.cs",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Migrations\\20260202183451_PrimeraMigracionViajes.cs",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Migrations\\20260202183451_PrimeraMigracionViajes.cs",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Migrations\\20260202183451_PrimeraMigracionViajes.cs",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Migrations\\20260202183451_PrimeraMigracionViajes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:34:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Program.cs",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Program.cs",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Program.cs",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:30:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\appsettings.json",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\appsettings.json",
+              "RelativeToolTip": "GestionViajesCaisabanda\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-02T18:30:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViajesContext.cs",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\ViajesContext.cs",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Models\\ViajesContext.cs",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\ViajesContext.cs",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Models\\ViajesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:29:57.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Turista.cs",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\Turista.cs",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Models\\Turista.cs",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\Turista.cs",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Models\\Turista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:28:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Destino.cs",
+              "DocumentMoniker": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\Destino.cs",
+              "RelativeDocumentMoniker": "GestionViajesCaisabanda\\Models\\Destino.cs",
+              "ToolTip": "D:\\UNIANDES\\6TO SEMESTRE\\APP WEB\\TAREAS\\GestionViajesCaisabanda\\GestionViajesCaisabanda\\Models\\Destino.cs",
+              "RelativeToolTip": "GestionViajesCaisabanda\\Models\\Destino.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:28:06.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+@model GestionViajesCaisabanda.Models.Turista
+
+<div class="row justify-content-center">
+    <div class="col-md-7">
+        <div class="card border-0 shadow-lg rounded-4 overflow-hidden">
+            <div class="card-header bg-info py-3 text-center text-white">
+                <h4 class="mb-0">Ficha del Turista</h4>
+            </div>
+            <div class="card-body p-5 text-center">
+                <div class="bg-info bg-opacity-10 d-inline-block p-4 rounded-circle mb-4">
+                    <i class="bi bi-person-vcard text-info" style="font-size: 4rem;"></i>
+                </div>
+                <h2 class="fw-bold">@Model.nombre @Model.apellido</h2>
+                <p class="text-muted mb-4">ID de Registro: #@Model.turista_id</p>
+
+                <div class="row text-start bg-light rounded-3 p-4 mx-1">
+                    <div class="col-6 mb-3">
+                        <label class="small fw-bold text-uppercase text-muted">Email</label>
+                        <div class="text-dark">@Model.email</div>
+                    </div>
+                    <div class="col-6 mb-3 text-end">
+                        <label class="small fw-bold text-uppercase text-muted">Teléfono</label>
+                        <div class="text-dark">@Model.telefono</div>
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between mt-5">
+                    <a asp-action="Index" class="btn btn-outline-secondary rounded-pill px-4">Volver</a>
+                    <a asp-action="Edit" asp-route-id="@Model.turista_id" class="btn btn-info text-white rounded-pill px-4">Editar Perfil</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

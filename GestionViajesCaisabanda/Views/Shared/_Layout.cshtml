@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GestionViajesCaisabanda</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/GestionViajesCaisabanda.styles.css" asp-append-version="true" />
+
+    <style>
+        /* Estilos profesionales para el Dashboard */
+        .nav-link {
+            transition: all 0.3s;
+            border-radius: 8px;
+            margin: 4px 0;
+        }
+        .nav-link:hover {
+            background-color: #0d6efd !important; /* Azul vibrante */
+            color: white !important;
+        }
+        .bg-dark {
+            background-color: #1a1d20 !important; /* Gris oscuro profundo */
+        }
+        main {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            min-height: 80vh;
+        }
+        body {
+            background-color: #f4f7f6; /* Fondo suave para resaltar el contenido */
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-dark min-vh-100 shadow">
+                <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-4 text-white">
+                    <a href="/" class="d-flex align-items-center pb-3 mb-md-1 me-md-auto text-white text-decoration-none">
+                        <i class="bi bi-airplane-engines fs-3 me-2 text-primary"></i>
+                        <span class="fs-5 fw-bold d-none d-sm-inline">Gestión Viajes</span>
+                    </a>
+                    <hr class="w-100 border-secondary">
+                    <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start w-100" id="menu">
+                        <li class="nav-item w-100">
+                            <a asp-controller="Home" asp-action="Index" class="nav-link align-middle px-3 text-white">
+                                <i class="bi bi-house-door"></i> <span class="ms-1 d-none d-sm-inline">Inicio</span>
+                            </a>
+                        </li>
+                        <li class="nav-item w-100">
+                            <a asp-controller="Destinoes" asp-action="Index" class="nav-link px-3 align-middle text-white">
+                                <i class="bi bi-geo-alt"></i> <span class="ms-1 d-none d-sm-inline">Destinos</span>
+                            </a>
+                        </li>
+                        <li class="nav-item w-100">
+                            <a asp-controller="Turistas" asp-action="Index" class="nav-link px-3 align-middle text-white">
+                                <i class="bi bi-people"></i> <span class="ms-1 d-none d-sm-inline">Turistas</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <hr class="w-100 border-secondary">
+                    <div class="pb-4 mt-auto">
+                        <small class="text-secondary">Soporte: geisoncg92@uniandes.edu.ec</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col py-4 px-md-5">
+                <main role="main">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
